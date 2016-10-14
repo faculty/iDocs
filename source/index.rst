@@ -10,7 +10,11 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
+   First/index
+   Second/index
+   Third/index
 
 
 Indices and tables
