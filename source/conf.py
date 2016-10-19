@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# firstBook documentation build configuration file, created by
+# A dog's self-cultivation documentation build configuration file, created by
 # sphinx-quickstart on Thu Oct 13 16:19:02 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -52,7 +52,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'firstBook'
+project = u"a Dog's Self-Cultivation"
 copyright = u'2016, Fu Ruiqing'
 author = u'Fu Ruiqing'
 
@@ -206,7 +206,7 @@ html_static_path = ['.static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'firstBookdoc'
+htmlhelp_basename = "bookdoc"
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'firstBook.tex', u'firstBook Documentation',
+    (master_doc, "a Dog's Self-Cultivation.tex", u"a Dog's Self-Cultivation Documentation",
      u'Fu Ruiqing', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'firstbook', u'firstBook Documentation',
+    (master_doc, "a Dog's Self-Cultivation", u"a Dog's Self-Cultivation Documentation",
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'firstBook', u'firstBook Documentation',
-     author, 'firstBook', 'One line description of project.',
+    (master_doc, "a Dog's Self-Cultivation", u"a Dog's Self-Cultivation Documentation",
+     author, "a Dog's Self-Cultivation", 'One line description of project.',
      'Miscellaneous'),
 ]
 
