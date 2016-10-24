@@ -1,16 +1,59 @@
-===========================
+========================
 a Dog's Self-Cultivation
-===========================
+========================
 
-**Dog** = **D**ata**o**logy **g**eek
+.. Author: your_name 
+.. title:: this is the real title in Jekyll.
+.. |date| date:: 2016-10-21 15:00:11
+.. publish:: NO
+..  This file is created from ~/.marboo/source/media/bin/default.init.rst
+.. 本文件由 ~/.marboo/source/media/bin/default.init.rst 复制而来
 
-  Yes, in order to make this 'Dog' word, I left out the key word -- Biology, since I am a computational biologist (, I guess).
+
++ **Dog** = **D**\ ata\ **o**\ logy\  **g**\ eek
+
+    -- Yes, I am just eager to make this word 'Dog', without considering my essential profession, which is **''Computational Biology''**.
 
 
---------------------------
+--------------------
 Coffee or Tea
---------------------------
+--------------------
+
+You always need to take a rest whenever you struggle into a hard nut. 
+Also, staying up all night to write a code always results in another daytime of debugging. 
+Reading through a/an tough/insipid paper always bring you a period of boring time. 
+All you need at this time is a cup of coffee/tea. 
+
+**60%** of my colleagues favor one of them, **30%** like both, and the rest **10%** never need any, because they choose to take a (long) snap in the noon. 
+
+Okay, I fake those numbers, because I am too lazy to do a survey. Nevertheless, you need water. At least, you need water.
 
 
+--------------------------------------------------
+Mathematics/Statistics, Computer, **and** Biology
+--------------------------------------------------
 
+Every one knowing **Computational Biology** knows its an *inter-discipline*, or I'd like to call it *edge discipline*. What's worse, this name trickily omits the feature relating to **Mathematics/Statistics**, which may scare lots of new hands. 
+However, you will recognize that the majority of your time and energy are paid to play with *data* -- **HUGE**, **MESSY**, **BIOLOGICAL** data. 
+In one word, to answer the **biological** question, **mathematics** helps you to analyze the data, and there are too much data so that you can not deal with a pencil and an A4 paper, so you need a **computer** to handle the calculation.
+
+
+-----------------------
+What's in this Blog
+-----------------------
+
+I'm not going to tell you how to choose your coffee or tea, although I start from this subject. Remember our key word -- **Dog**! You may find useful and practical skills, tools, and applications in catalogues of **computer**, , **mathematics/statistics**, and **biology**, here in the blog.
+
+
+.. Contents
+
+.. toctree:: 
+	:maxdepth: 2
+	:glob:
+
+	Introduction/intro
+	Computer/Linux
+	Tools/
+	Math-Stat/index
+	Biology/index
 

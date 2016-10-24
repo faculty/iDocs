@@ -17,10 +17,6 @@ Contents:
    Computer/
    Math-Stat/
 
-   First/index
-   Second/index
-   Third/index
-
 
 Indices and tables
 ==================
