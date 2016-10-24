@@ -1,18 +1,21 @@
+.. a Dog's Self-Cultivation documentation master file, created by
+   sphinx-quickstart on Thu Oct 13 16:19:02 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. Author: Fu Ruiqing
+.. title:: this is the real title in Jekyll.
+.. |date| date:: 2016-10-21 15:00:11
+.. publish:: NO
+
+
 ========================
 a Dog's Self-Cultivation
 ========================
 
-.. Author: your_name 
-.. title:: this is the real title in Jekyll.
-.. |date| date:: 2016-10-21 15:00:11
-.. publish:: NO
-..  This file is created from ~/.marboo/source/media/bin/default.init.rst
-.. 本文件由 ~/.marboo/source/media/bin/default.init.rst 复制而来
-
-
 + **Dog** = **D**\ ata\ **o**\ logy\  **g**\ eek
 
-    -- Yes, I am just eager to make this word 'Dog', without considering my essential profession, which is **''Computational Biology''**.
+      -- Yes, I am just eager to make this word 'Dog', without considering my essential profession, which is **''Computational Biology''**.
 
 
 --------------------
@@ -34,26 +37,23 @@ Mathematics/Statistics, Computer, **and** Biology
 --------------------------------------------------
 
 Every one knowing **Computational Biology** knows its an *inter-discipline*, or I'd like to call it *edge discipline*. What's worse, this name trickily omits the feature relating to **Mathematics/Statistics**, which may scare lots of new hands. 
-However, you will recognize that the majority of your time and energy are paid to play with *data* -- **HUGE**, **MESSY**, **BIOLOGICAL** data. 
-In one word, to answer the **biological** question, **mathematics** helps you to analyze the data, and there are too much data so that you can not deal with a pencil and an A4 paper, so you need a **computer** to handle the calculation.
+However, you will recognize that the majority of your time and energy are paid to playing with *data* -- **HUGE**, **MESSY**, **BIOLOGICAL** data. 
+
+In one word, to answer the **biological** question, **mathematics** helps you analyze the data, and there are too much data so that you can not deal with a pencil and an A4 paper, so you need a **computer** to handle the calculation.
 
 
 -----------------------
 What's in this Blog
 -----------------------
 
-I'm not going to tell you how to choose your coffee or tea, although I start from this subject. Remember our key word -- **Dog**! You may find useful and practical skills, tools, and applications in catalogues of **computer**, , **mathematics/statistics**, and **biology**, here in the blog.
+I'm not going to tell you how to choose your coffee or tea, although I start from this subject. Remember our key word -- **Dog**! You may find useful and practical skills, tools, and applications in catalogues of :ref:`computer`, :ref:`tool`, :ref:`mathematics/statistics`, and :ref:`biology`, here in the blog.
 
 
-.. Contents
 
-.. toctree:: 
-	:maxdepth: 2
-	:glob:
+Indices and tables
+==================
 
-	Introduction/intro
-	Computer/Linux
-	Tools/
-	Math-Stat/index
-	Biology/index
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 

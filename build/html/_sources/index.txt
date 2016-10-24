@@ -3,25 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to <a Dog's Self-Cultivation> !
-========================================
+.. Author: Fu Ruiqing
+.. title:: this is the real title in Jekyll.
+.. |date| date:: 2016-10-21 15:00:11
+.. publish:: NO
+
 
 Contents:
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
    Introduction/intro
    Biology/
    Computer/
    Math-Stat/
+   Tools/
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
